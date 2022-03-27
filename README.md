@@ -2,6 +2,7 @@
 Otomasyon sistemi tamamen ücretsiz şekilde hazırlanmıştır.Alt yapı olarak iyzico eklentisi mevcuttur sadece buyer.php ekleme yapmanız gerekir.
 Datebase için netting/dbconfig.php alanını düzenlemeniz gerekir.
 Sistem ile ilgili resimler ekte mevcuttur.
+oop_new.sql dosyasını import ediniz.
 
 
 
